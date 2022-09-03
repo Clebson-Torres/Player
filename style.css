@@ -7,7 +7,8 @@ html {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #333;
+    background: rgb(9, 47, 36);
+    background: linear-gradient(180deg, rgba(9, 47, 36, 1) 0%, rgba(222, 162, 68, 1) 50%, rgba(146, 20, 34, 1) 100%);
     color: #ddd;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -22,8 +23,7 @@ img {
     width: 300px;
 }
 
-h2,
-p {
+h2 {
     margin-top: 5px;
     align-items: flex-start;
 
