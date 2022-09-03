@@ -18,12 +18,14 @@ img {
     border-radius: 5%;
 }
 
-.descrition {
+.descricao {
     width: 300px;
 }
 
-h2 {
+h2,
+p {
     margin-top: 5px;
+    align-items: flex-start;
 
 }
 
